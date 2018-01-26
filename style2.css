@@ -1,0 +1,63 @@
+article {
+    background:  #0000;;
+
+}
+
+
+body{
+  background-image: url(https://media.istockphoto.com/illustrations/faded-german-flag-illustration-id526133944);
+}
+header {
+  width: 100%;
+  background-color: darkgreen;
+  font-family: cursive;
+  font-size: 40px;
+  text-align: center;
+
+}
+
+h1 {
+  font-size: 50px;
+  color: orange;
+  text-transform: uppercase;
+
+}
+
+h2 {
+  font-size: 20px;
+  font-style: bold;
+  font-family: cursive;
+  color: yellow;
+}
+
+p {
+  text-align: center;
+  font-family: serif;
+  color: black;
+  font-size: 20px;
+  letter-spacing: 2px;
+  background-color: white
+}
+
+section.main {
+  margin-left: 20px;
+  margin-right:50px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+section.sources {
+  border: none;
+  margin-left: 40px;
+  margin-right: 40px;
+  clear: right;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+img {
+  width: 45%;
+  float: right;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
