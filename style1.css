@@ -1,0 +1,58 @@
+article {
+    background:  #0000;;
+}
+
+
+body{
+  background-color: lightpink;
+}
+header {
+  width: 100%;
+  background-color: white;
+  font-family: monospace;
+  font-size: 20px;
+  text-align: left;
+
+}
+
+h1 {
+  font-size: 50px;
+  color: red;
+
+}
+
+h2 {
+  font-size: 20px;
+  font-style: bold;
+  font-family: cursive;
+  color: purple;
+}
+
+p {
+  text-align: left;
+  font-family: serif;
+  color: white;
+}
+
+section.main {
+  margin-left: 20px;
+  margin-right:50px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+section.sources {
+  border: 10px dotted black;
+  margin-left: 40px;
+  margin-right: 40px;
+  clear: left;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+img {
+  width: 30%;
+  float: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
